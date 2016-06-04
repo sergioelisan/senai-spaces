@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e97c6c5-bbc7-42a6-817d-7a7ac94a4279" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/sergio.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/cadastro/Cadastro$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/cadastro/Cadastro.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/cadastro/TamanhoFixo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/cadastro/excecoes/DisciplinaNaoCadastradaException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/cadastro/excecoes/HorarioNaoCadastradoException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/cadastro/excecoes/MatriculaComLetrasException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/cadastro/excecoes/MatriculaNaoCadastradaException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/cadastro/excecoes/NomeComNumerosException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/cadastro/excecoes/NomeNaoCadastradoException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/cadastro/excecoes/SalaNaoCadastradaException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/cadastro/excecoes/TurmaNaoCadastradaException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/commons/Cliente.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/commons/Pesquisa$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/commons/Pesquisa$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/commons/Pesquisa.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/commons/Preferencias$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/commons/Preferencias.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/commons/Rede.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/image/mapa_senai.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/mapa/ImagePanel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/mapa/Mapa$Acao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/mapa/Mapa.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/servidor/DataBase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/senai-spaces/servidor/Server.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="senai-spaces.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,7 +24,28 @@
     <favorites_list name="senai-spaces" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Server.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/servidor/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="93" column="20" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataBase.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/servidor/DataBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="25" column="35" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -626,7 +619,14 @@
       <option name="project" value="LOCAL" />
       <updated>1465023115431</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="organizando estrutura">
+      <created>1465023262599</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1465023262599</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -664,7 +664,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="ignore" />
+    <MESSAGE value="organizando estrutura" />
+    <option name="LAST_COMMIT_MESSAGE" value="organizando estrutura" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -723,14 +724,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/servidor/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="93" column="20" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/mapa/Mapa.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
@@ -755,18 +748,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/servidor/DataBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="88" column="16" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/commons/Rede.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servidor/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="93" column="20" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servidor/DataBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="35" />
           <folding />
         </state>
       </provider>
